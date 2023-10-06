@@ -1,5 +1,5 @@
 -- ftd.color base-:
-light: #00b9b9
+light: #00cbcb
 dark: #29132e
 
 -- ftd.color step-1-:
@@ -293,8 +293,8 @@ light: #252f2a
 dark: #682aa7
 
 -- ftd.color info-text-:
-light: #c4edfd
-dark: #c4edfd
+light: #e3f0c4
+dark: #e3f0c4
 
 -- ftd.color info-border-:
 light: #205694
@@ -302,7 +302,7 @@ dark: #205694
 
 -- ftd.btb info-btb-:
 base: $info-base-
-text: $info-base-
+text: $info-text-
 border: $info-base-
 
 -- ftd.color warning-base-:
