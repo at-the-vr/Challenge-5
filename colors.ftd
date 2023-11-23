@@ -1,9 +1,9 @@
 -- ftd.color base-:
-light: #00bfbf
+light: #00cbcb
 dark: #29132e
 
 -- ftd.color step-1-:
-light: #3c5162
+light: #374b5a
 dark: #321450
 
 -- ftd.color step-2-:
@@ -238,11 +238,11 @@ text-disabled: $cta-danger-text-disabled-
 border-disabled: $cta-danger-border-disabled-
 
 -- ftd.color accent-primary-:
-light: #ff6387
+light: #ff7b99
 dark: #676bcb
 
 -- ftd.color accent-secondary-:
-light: #ff7796
+light: #00a6a6
 dark: #9a47ad
 
 -- ftd.color accent-tertiary-:
@@ -272,7 +272,7 @@ text: $error-text-
 border: $error-border-
 
 -- ftd.color success-base-:
-light: #ff3d69
+light: #282f25
 dark: #451c6f
 
 -- ftd.color success-text-:
@@ -289,7 +289,7 @@ text: $success-text-
 border: $success-border-
 
 -- ftd.color info-base-:
-light: #ff446f
+light: #252f2a
 dark: #682aa7
 
 -- ftd.color info-text-:
@@ -306,7 +306,7 @@ text: $info-text-
 border: $info-base-
 
 -- ftd.color warning-base-:
-light: #ff3261
+light: #2a2f24
 dark: #451c6f
 
 -- ftd.color warning-text-:
@@ -359,7 +359,7 @@ light: #ec8943
 dark: #ec8943
 
 -- ftd.color custom-ten-:
-light: #ff6387
+light: #da7a4a
 dark: #AF0050
 
 -- ftd.custom-colors custom-:
